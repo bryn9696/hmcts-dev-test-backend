@@ -5,7 +5,7 @@ A simple Spring Boot backend for managing caseworker tasks.
 ## Features
 
 - Create, read, update, and delete tasks
-- Store tasks in H2 database
+- Store tasks in database
 - Swagger UI for API documentation
 - Input validation and error handling
 - Unit tested service layer
